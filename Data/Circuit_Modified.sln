@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circuit_Modified", "Circuit_Modified\Circuit_Modified.vcxproj", "{29C06CD8-14FA-4A07-8B07-548E0CEF5972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C06CD8-14FA-4A07-8B07-548E0CEF5972}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29C06CD8-14FA-4A07-8B07-548E0CEF5972}.Debug|Win32.Build.0 = Debug|Win32
+		{29C06CD8-14FA-4A07-8B07-548E0CEF5972}.Release|Win32.ActiveCfg = Release|Win32
+		{29C06CD8-14FA-4A07-8B07-548E0CEF5972}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
